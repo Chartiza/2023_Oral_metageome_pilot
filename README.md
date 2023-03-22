@@ -22,7 +22,7 @@ De observed quite wide distribution for Reads left percentage.
 
 This made prediction for final reads number quite uncertant. 
 
-![Ststs3](https://user-images.githubusercontent.com/15068419/226910308-2573ffe6-9590-44d9-b7d6-a875593467d7.png)
+![Ststs3](https://user-images.githubusercontent.com/15068419/226919135-7f68f93a-7a4d-46bd-bc50-f2f874e3da51.png)
 
 We dont see significant differences for Reads left percentage inbetween helthy, high risk and tumor samples.
 
